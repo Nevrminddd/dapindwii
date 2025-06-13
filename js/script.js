@@ -83,7 +83,7 @@ $.getJSON("asset/data-spasial/spr23.geojson", function (data) {
                 case 'BADAN AIR':
                     return { fillColor: "#00FFFF", fillOpacity: 0.8, weight: 0.5, color: "#808080" };
                 case 'BANGUNAN':
-                    return { fillColor: "#FF0000", fillOpacity: 0.8, weight: 0.5, color: "#4065EB" };
+                    return { fillColor: "#FF7F00", fillOpacity: 0.8, weight: 0.5, color: "#4065EB" };
                 case 'HUTAN':
                     return { fillColor: "#38A800", fillOpacity: 0.8, weight: 0.5, color: "#38A800" };
                 case 'PERKEBUNAN':
